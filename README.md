@@ -8,4 +8,4 @@ The set should:
 
 The set should not:
 + Contain duplicates
-+ Be ordered
++ Be ordered (how can i test for this??)
